@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="builder" />
+        <module name="factory" />
+        <module name="prototype" />
+        <module name="singlton" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="builder" target="17" />
+      <module name="factory" target="17" />
+      <module name="prototype" target="17" />
+      <module name="singlton" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="builder" options="-parameters" />
+      <module name="factory" options="-parameters" />
+      <module name="prototype" options="-parameters" />
+      <module name="singlton" options="-parameters" />
+    </option>
+  </component>
+</project>

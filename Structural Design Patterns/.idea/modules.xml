@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Structural Design Patterns.iml" filepath="$PROJECT_DIR$/.idea/Structural Design Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapter/adapter/adapter.iml" filepath="$PROJECT_DIR$/adapter/adapter/adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bridge/bridge/bridge.iml" filepath="$PROJECT_DIR$/bridge/bridge/bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composit/composit.iml" filepath="$PROJECT_DIR$/composit/composit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator/decorator/decorator.iml" filepath="$PROJECT_DIR$/decorator/decorator/decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facade/facade/facade.iml" filepath="$PROJECT_DIR$/facade/facade/facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy/proxy.iml" />
+    </modules>
+  </component>
+</project>
