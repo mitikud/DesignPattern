@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Behavioural Design Pattern.iml" filepath="$PROJECT_DIR$/.idea/Behavioural Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibility/ChainOfResponsibility/ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/ChainOfResponsibility/ChainOfResponsibility/ChainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command/Command/Command.iml" filepath="$PROJECT_DIR$/Command/Command/Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mediator/Mediator/Mediator.iml" filepath="$PROJECT_DIR$/Mediator/Mediator/Mediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State/State/State.iml" filepath="$PROJECT_DIR$/State/State/State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Template/Template/Template.iml" filepath="$PROJECT_DIR$/Template/Template/Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Visitor/Visitor/Visitor.iml" filepath="$PROJECT_DIR$/Visitor/Visitor/Visitor.iml" />
+    </modules>
+  </component>
+</project>

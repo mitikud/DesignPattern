@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Visitor" />
+        <module name="Command" />
+        <module name="State" />
+        <module name="Observer" />
+        <module name="Strategy" />
+        <module name="Mediator" />
+        <module name="ChainOfResponsibility" />
+        <module name="Template" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ChainOfResponsibility" target="17" />
+      <module name="Command" target="17" />
+      <module name="Mediator" target="17" />
+      <module name="Observer" target="17" />
+      <module name="State" target="17" />
+      <module name="Strategy" target="17" />
+      <module name="Template" target="17" />
+      <module name="Visitor" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ChainOfResponsibility" options="-parameters" />
+      <module name="Command" options="-parameters" />
+      <module name="Mediator" options="-parameters" />
+      <module name="Observer" options="-parameters" />
+      <module name="State" options="-parameters" />
+      <module name="Strategy" options="-parameters" />
+      <module name="Template" options="-parameters" />
+      <module name="Visitor" options="-parameters" />
+    </option>
+  </component>
+</project>
